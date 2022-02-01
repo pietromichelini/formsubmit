@@ -59,6 +59,7 @@ form button:hover{
     background-color: var(--color-6);
 }
 body #copyright{
+    font-size: 10px;
     display: flex;
     justify-content: center;
     text-decoration: none;
