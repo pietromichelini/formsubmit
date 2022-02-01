@@ -1,5 +1,5 @@
 # formsubmit
-Form HTML che invia mail - Working HTML contact Form 
+Contact Form HTML Funzionante - Working HTML contact Form 
 
 ITA:
 Come è facile capire dal titolo, questo progetto consiste in un semplice form in grado di inviare mail al mio indirizzo personale.
