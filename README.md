@@ -2,7 +2,7 @@
 Contact Form HTML Funzionante - Working HTML contact Form 
 
 ITA:
-Come è facile capire dal titolo, questo progetto consiste in un semplice form in grado di inviare mail al mio indirizzo personale.
+Questo progetto consiste in un semplice form in grado di inviare mail al mio indirizzo personale.
 Il suo funzionamento è basato sul servizio gratuito offerto da "https://formsubmit.co/".
 Si consiglia vivamente di aprire il progetto tramite "github-pages".
 
